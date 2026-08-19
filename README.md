@@ -1,5 +1,5 @@
 # Preparing Data for Analysis | Q1 Sales Performance
-## Project Overview
+## 📊 Project Overview
 
 This project demonstrates how I prepared and analyzed transactional sales data in Microsoft Excel to create a management-ready Q1 sales summary.
 
@@ -93,17 +93,29 @@ PROPER() | MONTH() | YEAR() | IF() | SUMIFS()
 
 ## 📌 Project Workflow
 Raw Transaction Data
+
 ↓
+
 Data Preparation
+
 ↓
+
 Data Transformation
+
 ↓
+
 Business Calculations
+
 ↓
+
 Q1 Sales Analysis
+
 ↓
+
 Year-over-Year Comparison
+
 ↓
+
 Executive Summary
 ## 📷 Project Preview
 
